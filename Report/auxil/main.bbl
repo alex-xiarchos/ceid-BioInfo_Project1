@@ -92,6 +92,43 @@
       \verb https://www.ncbi.nlm.nih.gov/tools/cobalt/re_cobalt.cgi
       \endverb
     \endentry
+    \entry{Cole_Hariharan_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=10fd98843b865b270f346f515c064683}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0ca500d08f68aed706ed90f0c1213b06}{%
+           family={Hariharan},
+           familyi={H\bibinitperiod},
+           given={Ramesh},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{fullhash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{fullhashraw}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{bibnamehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authorbibnamehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authornamehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authorfullhash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authorfullhashraw}{e4440c0697f003a7e7f1ada20f0b334f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal on Computing}
+      \field{month}{1}
+      \field{number}{4}
+      \field{title}{Dynamic LCA queries on trees}
+      \field{volume}{34}
+      \field{year}{2005}
+      \field{pages}{894\bibrangedash 923}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1137/s0097539700370539
+      \endverb
+    \endentry
     \entry{EBI}{misc}{}{}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
@@ -254,6 +291,38 @@
       \endverb
       \verb{url}
       \verb https://tcoffee.crg.eu/apps/tcoffee/do:regular
+      \endverb
+    \endentry
+    \entry{Ukkonen_1995}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c47059158bf7f2bcb803c9b951856e5e}{%
+           family={Ukkonen},
+           familyi={U\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{fullhash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{fullhashraw}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{bibnamehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authorbibnamehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authornamehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authorfullhash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authorfullhashraw}{c47059158bf7f2bcb803c9b951856e5e}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Algorithmica}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{On-line construction of suffix trees}
+      \field{volume}{14}
+      \field{year}{1995}
+      \field{pages}{249\bibrangedash 260}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/bf01206331
       \endverb
     \endentry
   \enddatalist

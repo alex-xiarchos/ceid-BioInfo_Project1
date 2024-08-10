@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.5.2)  10 AUG 2024 13:17
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.5.2)  10 AUG 2024 19:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3459,8 +3459,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 q3.tex:7: Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.7     \section{ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}
-                                             
+l.7 \section{ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}
+                                         
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -3468,29 +3468,8 @@ look up `weird error' in the index to The TeXbook.)
 q3.tex:7: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.7     \section{ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}
-                                             
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-q3.tex:8: Missing number, treated as zero.
-<to be read again> 
-                   \protect 
-l.8 ...ion{Πολυπλοκότητα στην τροποποίηση εισόδου}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-q3.tex:8: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \protect 
-l.8 ...ion{Πολυπλοκότητα στην τροποποίηση εισόδου}
-                                                  
+l.7 \section{ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}
+                                         
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -3500,18 +3479,18 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 q3.tex:15: Missing number, treated as zero.
 <to be read again> 
-                   \protect 
-l.15         \subsection{Χρονική πολυπλοκότητα}
-                                               
+                   \relax 
+l.15     \section{ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}
+                                       
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 q3.tex:15: Illegal unit of measure (pt inserted).
 <to be read again> 
-                   \protect 
-l.15         \subsection{Χρονική πολυπλοκότητα}
-                                               
+                   \relax 
+l.15     \section{ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}
+                                       
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -3521,18 +3500,18 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 q3.tex:18: Missing number, treated as zero.
 <to be read again> 
-                   \relax 
-l.18     \section{ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}
-                                       
+                   \protect 
+l.18 ...{Δυναμικό δέντρο επιθεμάτων του McCreight}
+                                                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 q3.tex:18: Illegal unit of measure (pt inserted).
 <to be read again> 
-                   \relax 
-l.18     \section{ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}
-                                       
+                   \protect 
+l.18 ...{Δυναμικό δέντρο επιθεμάτων του McCreight}
+                                                  
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -3540,19 +3519,70 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-q3.tex:21: Missing number, treated as zero.
+q3.tex:24: Missing number, treated as zero.
 <to be read again> 
                    \protect 
-l.21 ...Δυναμικό δέντρο επιθεμάτων των Choi - Lam}
+l.24 ...Δυναμικό δέντρο επιθεμάτων των Choi - Lam}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-q3.tex:21: Illegal unit of measure (pt inserted).
+q3.tex:24: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \protect 
-l.21 ...Δυναμικό δέντρο επιθεμάτων των Choi - Lam}
+l.24 ...Δυναμικό δέντρο επιθεμάτων των Choi - Lam}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q3.tex:32: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.32 ...\subsection{Online αλγόριθμος του Ukkonen}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:32: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.32 ...\subsection{Online αλγόριθμος του Ukkonen}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.96603pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.96603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
+
+[8]
+q3.tex:40: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.40 ...ction{LCP αλγόριθμος των Cole - Hariharan}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:40: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.40 ...ction{LCP αλγόριθμος των Cole - Hariharan}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
@@ -3570,7 +3600,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
 
-[8]
+[9]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.96603pt, for example:
@@ -3579,7 +3609,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
 
-[9] (W:/PycharmProjects\BioInfo_Project1\Report\auxil\main.aux)
+[10] (W:/PycharmProjects\BioInfo_Project1\Report\auxil\main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -3594,25 +3624,23 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 6D1FAD686D37DDE31D745417D0A535CF;7856
-(rerunfilecheck)             After:  2DE94EC9C64971DA1A43359E88BFE0C0;7501.
+(rerunfilecheck)             Before: 1996194BE7809BE4773F16EDCE81826B;8027
+(rerunfilecheck)             After:  7BA18040B5E2B97A30075C879C4F1EF1;7806.
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50670 strings out of 409554
- 1113819 string characters out of 5779086
- 1993760 words of memory out of 5000000
- 72184 multiletter control sequences out of 15000+600000
+ 50675 strings out of 409554
+ 1114107 string characters out of 5779086
+ 1996003 words of memory out of 5000000
+ 72189 multiletter control sequences out of 15000+600000
  563650 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  106i,12n,110p,1638b,5080s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on W:/PycharmProjects\BioInfo_Project1\Report\out\main.pdf (10 p
+Output written on W:/PycharmProjects\BioInfo_Project1\Report\out\main.pdf (11 p
 ages).

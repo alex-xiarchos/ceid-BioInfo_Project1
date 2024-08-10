@@ -2388,7 +2388,10 @@
     <bcf:citekey order="14" intorder="1">EBI</bcf:citekey>
     <bcf:citekey order="15" intorder="1">ClusterOmega</bcf:citekey>
     <bcf:citekey order="16" intorder="1">TCoffee</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Choi_Lam_1997</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">McCreight_1976</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Choi_Lam_1997</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Ukkonen_1995</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Cole_Hariharan_2005</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
