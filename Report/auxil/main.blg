@@ -1,0 +1,19 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[74] biber-MSWIN64:340> INFO - === 
+[104] Biber.pm:420> INFO - Reading 'main.bcf'
+[174] Biber.pm:994> INFO - Found 17 citekeys in bib section 0
+[182] Biber.pm:4463> INFO - Processing section 0
+[190] Biber.pm:4654> INFO - Looking for bibtex file 'References.bib' for section 0
+[237] bibtex.pm:1713> INFO - LaTeX decoding ...
+[246] bibtex.pm:1519> INFO - Found BibTeX data source 'W:\PycharmProjects\BioInfo_Project1\Report\src\References.bib'
+[280] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[280] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[280] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'el-GR'
+[280] Biber.pm:4289> INFO - No sort tailoring available for locale 'el-GR'
+[288] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[291] bbl.pm:779> INFO - Output to main.bbl
+[291] Biber.pm:131> WARN - legacy month field 'Apr' in entry 'McCreight_1976' is not an integer - this will probably not sort properly.
+[291] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'Choi_Lam_1997' is not an integer - this will probably not sort properly.
+[291] Biber.pm:131> WARN - I didn't find a database entry for 'FastQC' (section 0)
+[291] Biber.pm:133> INFO - WARNINGS: 3

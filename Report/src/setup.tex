@@ -23,7 +23,6 @@
 \usepackage{arabicore} %
 \usepackage{booktabs} % πίνακες
 \usepackage{titleps} % επικεφαλίδες και υποσέλιδα
-\usepackage{biblatex} % διαχείριση βιβλιογραφίας
 \usepackage{lstmisc} %
 \usepackage{tikz}
 
@@ -143,5 +142,10 @@
 
 \usepackage{float} % Allows for more flexible positioning of floats σε πίνακες πχ
 \restylefloat{table}
+
+% Εισαγωγή βιβλιογραφίας
+\usepackage[backend=biber]{biblatex}
+\addbibresource{References.bib}
+\bibliographystyle{ieeetr}
 
 \endinput

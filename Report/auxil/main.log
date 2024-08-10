@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.5.2)  5 AUG 2024 21:16
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.5.2)  10 AUG 2024 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2234,238 +2234,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (W:\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
-
-(W:\MiKTeX\tex/latex/logreq\logreq.sty
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count421
- (W:\MiKTeX\tex/latex/logreq\logreq.def
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (W:\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count422
-\c@listtotal=\count423
-\c@listcount=\count424
-\c@liststart=\count425
-\c@liststop=\count426
-\c@citecount=\count427
-\c@citetotal=\count428
-\c@multicitecount=\count429
-\c@multicitetotal=\count430
-\c@instcount=\count431
-\c@maxnames=\count432
-\c@minnames=\count433
-\c@maxitems=\count434
-\c@minitems=\count435
-\c@citecounter=\count436
-\c@maxcitecounter=\count437
-\c@savedcitecounter=\count438
-\c@uniquelist=\count439
-\c@uniquename=\count440
-\c@refsection=\count441
-\c@refsegment=\count442
-\c@maxextratitle=\count443
-\c@maxextratitleyear=\count444
-\c@maxextraname=\count445
-\c@maxextradate=\count446
-\c@maxextraalpha=\count447
-\c@abbrvpenalty=\count448
-\c@highnamepenalty=\count449
-\c@lownamepenalty=\count450
-\c@maxparens=\count451
-\c@parenlevel=\count452
-\blx@tempcnta=\count453
-\blx@tempcntb=\count454
-\blx@tempcntc=\count455
-\c@blx@maxsection=\count456
-\blx@maxsegment@0=\count457
-\blx@notetype=\count458
-\blx@parenlevel@text=\count459
-\blx@parenlevel@foot=\count460
-\blx@sectionciteorder@0=\count461
-\blx@sectionciteorderinternal@0=\count462
-\blx@entrysetcounter=\count463
-\blx@biblioinstance=\count464
-\labelnumberwidth=\skip76
-\labelalphawidth=\skip77
-\biblabelsep=\skip78
-\bibitemsep=\skip79
-\bibnamesep=\skip80
-\bibinitsep=\skip81
-\bibparsep=\skip82
-\bibhang=\skip83
-\blx@bcfin=\read6
-\blx@bcfout=\write5
-\blx@langwohyphens=\language80
-\c@mincomprange=\count465
-\c@maxcomprange=\count466
-\c@mincompwidth=\count467
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
- (W:\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
-)
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count468
-\c@savedafterword=\count469
-\c@annotator=\count470
-\c@savedannotator=\count471
-\c@author=\count472
-\c@savedauthor=\count473
-\c@bookauthor=\count474
-\c@savedbookauthor=\count475
-\c@commentator=\count476
-\c@savedcommentator=\count477
-\c@editor=\count478
-\c@savededitor=\count479
-\c@editora=\count480
-\c@savededitora=\count481
-\c@editorb=\count482
-\c@savededitorb=\count483
-\c@editorc=\count484
-\c@savededitorc=\count485
-\c@foreword=\count486
-\c@savedforeword=\count487
-\c@holder=\count488
-\c@savedholder=\count489
-\c@introduction=\count490
-\c@savedintroduction=\count491
-\c@namea=\count492
-\c@savednamea=\count493
-\c@nameb=\count494
-\c@savednameb=\count495
-\c@namec=\count496
-\c@savednamec=\count497
-\c@translator=\count498
-\c@savedtranslator=\count499
-\c@shortauthor=\count500
-\c@savedshortauthor=\count501
-\c@shorteditor=\count502
-\c@savedshorteditor=\count503
-\c@labelname=\count504
-\c@savedlabelname=\count505
-\c@institution=\count506
-\c@savedinstitution=\count507
-\c@lista=\count508
-\c@savedlista=\count509
-\c@listb=\count510
-\c@savedlistb=\count511
-\c@listc=\count512
-\c@savedlistc=\count513
-\c@listd=\count514
-\c@savedlistd=\count515
-\c@liste=\count516
-\c@savedliste=\count517
-\c@listf=\count518
-\c@savedlistf=\count519
-\c@location=\count520
-\c@savedlocation=\count521
-\c@organization=\count522
-\c@savedorganization=\count523
-\c@origlocation=\count524
-\c@savedoriglocation=\count525
-\c@origpublisher=\count526
-\c@savedorigpublisher=\count527
-\c@publisher=\count528
-\c@savedpublisher=\count529
-\c@language=\count530
-\c@savedlanguage=\count531
-\c@origlanguage=\count532
-\c@savedoriglanguage=\count533
-\c@pageref=\count534
-\c@savedpageref=\count535
-\shorthandwidth=\skip84
-\shortjournalwidth=\skip85
-\shortserieswidth=\skip86
-\shorttitlewidth=\skip87
-\shortauthorwidth=\skip88
-\shorteditorwidth=\skip89
-\locallabelnumberwidth=\skip90
-\locallabelalphawidth=\skip91
-\localshorthandwidth=\skip92
-\localshortjournalwidth=\skip93
-\localshortserieswidth=\skip94
-\localshorttitlewidth=\skip95
-\localshortauthorwidth=\skip96
-\localshorteditorwidth=\skip97
-Package biblatex Info: Trying to load enhanced support for Unicode engines...
-Package biblatex Info: ... file 'blx-unicode.def' found.
- (W:\MiKTeX\tex/latex/biblatex\blx-unicode.def)
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-(W:\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-(W:\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count536
-\c@textcitetotal=\count537
-\c@textcitemaxnames=\count538
-\c@biburlbigbreakpenalty=\count539
-\c@biburlbreakpenalty=\count540
-\c@biburlnumpenalty=\count541
-\c@biburlucpenalty=\count542
-\c@biburllcpenalty=\count543
-\biburlbigskip=\muskip19
-\biburlnumskip=\muskip20
-\biburlucskip=\muskip21
-\biburllcskip=\muskip22
-\c@smartand=\count544
-)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
-
-(W:\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
-File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-(W:\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
-File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count545
-\c@bbx:relatedtotal=\count546
-))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
-
-(W:\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
-File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(W:\MiKTeX\tex/latex/biblatex\biblatex.cfg
-File: biblatex.cfg 
-)
-Package biblatex Info: XeTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2024-03-14 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(W:\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
-Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
-))
 
 Package fontspec Info: 
 (fontspec)             Font family 'ConduitITCHelLight(0)' created for font
@@ -2643,16 +2412,261 @@ Package fontspec Info:
 (fontspec)             <->"Times New
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;"
 
-
-(W:\MiKTeX\tex/latex/float\float.sty
+ (W:\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count547
+\c@float@type=\count421
 \float@exts=\toks64
 \float@box=\box175
 \@float@everytoks=\toks65
 \@floatcapt=\box176
 )
 \@float@every@table=\toks66
+
+(W:\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+
+(W:\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count422
+ (W:\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (W:\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count423
+\c@listtotal=\count424
+\c@listcount=\count425
+\c@liststart=\count426
+\c@liststop=\count427
+\c@citecount=\count428
+\c@citetotal=\count429
+\c@multicitecount=\count430
+\c@multicitetotal=\count431
+\c@instcount=\count432
+\c@maxnames=\count433
+\c@minnames=\count434
+\c@maxitems=\count435
+\c@minitems=\count436
+\c@citecounter=\count437
+\c@maxcitecounter=\count438
+\c@savedcitecounter=\count439
+\c@uniquelist=\count440
+\c@uniquename=\count441
+\c@refsection=\count442
+\c@refsegment=\count443
+\c@maxextratitle=\count444
+\c@maxextratitleyear=\count445
+\c@maxextraname=\count446
+\c@maxextradate=\count447
+\c@maxextraalpha=\count448
+\c@abbrvpenalty=\count449
+\c@highnamepenalty=\count450
+\c@lownamepenalty=\count451
+\c@maxparens=\count452
+\c@parenlevel=\count453
+\blx@tempcnta=\count454
+\blx@tempcntb=\count455
+\blx@tempcntc=\count456
+\c@blx@maxsection=\count457
+\blx@maxsegment@0=\count458
+\blx@notetype=\count459
+\blx@parenlevel@text=\count460
+\blx@parenlevel@foot=\count461
+\blx@sectionciteorder@0=\count462
+\blx@sectionciteorderinternal@0=\count463
+\blx@entrysetcounter=\count464
+\blx@biblioinstance=\count465
+\labelnumberwidth=\skip76
+\labelalphawidth=\skip77
+\biblabelsep=\skip78
+\bibitemsep=\skip79
+\bibnamesep=\skip80
+\bibinitsep=\skip81
+\bibparsep=\skip82
+\bibhang=\skip83
+\blx@bcfin=\read6
+\blx@bcfout=\write5
+\blx@langwohyphens=\language80
+\c@mincomprange=\count466
+\c@maxcomprange=\count467
+\c@mincompwidth=\count468
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (W:\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count469
+\c@savedafterword=\count470
+\c@annotator=\count471
+\c@savedannotator=\count472
+\c@author=\count473
+\c@savedauthor=\count474
+\c@bookauthor=\count475
+\c@savedbookauthor=\count476
+\c@commentator=\count477
+\c@savedcommentator=\count478
+\c@editor=\count479
+\c@savededitor=\count480
+\c@editora=\count481
+\c@savededitora=\count482
+\c@editorb=\count483
+\c@savededitorb=\count484
+\c@editorc=\count485
+\c@savededitorc=\count486
+\c@foreword=\count487
+\c@savedforeword=\count488
+\c@holder=\count489
+\c@savedholder=\count490
+\c@introduction=\count491
+\c@savedintroduction=\count492
+\c@namea=\count493
+\c@savednamea=\count494
+\c@nameb=\count495
+\c@savednameb=\count496
+\c@namec=\count497
+\c@savednamec=\count498
+\c@translator=\count499
+\c@savedtranslator=\count500
+\c@shortauthor=\count501
+\c@savedshortauthor=\count502
+\c@shorteditor=\count503
+\c@savedshorteditor=\count504
+\c@labelname=\count505
+\c@savedlabelname=\count506
+\c@institution=\count507
+\c@savedinstitution=\count508
+\c@lista=\count509
+\c@savedlista=\count510
+\c@listb=\count511
+\c@savedlistb=\count512
+\c@listc=\count513
+\c@savedlistc=\count514
+\c@listd=\count515
+\c@savedlistd=\count516
+\c@liste=\count517
+\c@savedliste=\count518
+\c@listf=\count519
+\c@savedlistf=\count520
+\c@location=\count521
+\c@savedlocation=\count522
+\c@organization=\count523
+\c@savedorganization=\count524
+\c@origlocation=\count525
+\c@savedoriglocation=\count526
+\c@origpublisher=\count527
+\c@savedorigpublisher=\count528
+\c@publisher=\count529
+\c@savedpublisher=\count530
+\c@language=\count531
+\c@savedlanguage=\count532
+\c@origlanguage=\count533
+\c@savedoriglanguage=\count534
+\c@pageref=\count535
+\c@savedpageref=\count536
+\shorthandwidth=\skip84
+\shortjournalwidth=\skip85
+\shortserieswidth=\skip86
+\shorttitlewidth=\skip87
+\shortauthorwidth=\skip88
+\shorteditorwidth=\skip89
+\locallabelnumberwidth=\skip90
+\locallabelalphawidth=\skip91
+\localshorthandwidth=\skip92
+\localshortjournalwidth=\skip93
+\localshortserieswidth=\skip94
+\localshorttitlewidth=\skip95
+\localshortauthorwidth=\skip96
+\localshorteditorwidth=\skip97
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+ (W:\MiKTeX\tex/latex/biblatex\blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(W:\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(W:\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count537
+\c@textcitetotal=\count538
+\c@textcitemaxnames=\count539
+\c@biburlbigbreakpenalty=\count540
+\c@biburlbreakpenalty=\count541
+\c@biburlnumpenalty=\count542
+\c@biburlucpenalty=\count543
+\c@biburllcpenalty=\count544
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count545
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(W:\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(W:\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count546
+\c@bbx:relatedtotal=\count547
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(W:\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(W:\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2024-03-14 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(W:\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+))
+
+setup.tex:149: Package biblatex Error: '\bibliographystyle' invalid for 'biblat
+ex'.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 \bibliographystyle{ieeetr}
+                                
+Use the package option 'style' instead.
+I'm ignoring this command.
+
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
@@ -2832,12 +2846,20 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
+Package biblatex Info: ... file 'main.bbl' found.
 
-No file main.bbl.
+(W:/PycharmProjects\BioInfo_Project1\Report\auxil\main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                FastQC
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
-(W:\MiKTeX\tex/latex/amsfonts\umsa.fd) (W:\MiKTeX\tex/latex/amsfonts\umsb.fd)
+ (W:\MiKTeX\tex/latex/amsfonts\umsa.fd) (W:\MiKTeX\tex/latex/amsfonts\umsb.fd)
 main.tex:14: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2935,6 +2957,610 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
+q1.tex:7: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.7 ...ion to the Bioinformatics Armory": (SMS 2)}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:7: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.7 ...ion to the Bioinformatics Armory": (SMS 2)}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+LaTeX Font Info:    Font shape `TU/CourierNew(0)/m/n' will be
+(Font)              scaled to size 9.60004pt on input line 13.
+q1.tex:26: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.26 ...section{"GenBank Introduction": Αναζήτηση}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:26: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.26 ...section{"GenBank Introduction": Αναζήτηση}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:29: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.29 ...ction{"Data Formats": Formats της GenBank}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:29: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.29 ...ction{"Data Formats": Formats της GenBank}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+LaTeX Font Info:    Font shape `TU/CourierNew(0)/m/n' will be
+(Font)              scaled to size 8.00003pt on input line 35.
+q1.tex:42: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.42 ...iscovery": Αναζήτηση Motifs σε ακολουθίες}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:42: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.42 ...iscovery": Αναζήτηση Motifs σε ακολουθίες}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:45: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.45 ...se Global Alignment": Στοίχιση ακολουθιών}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:45: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.45 ...se Global Alignment": Στοίχιση ακολουθιών}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.96603pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.96603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
+
+[2]
+q1.tex:57: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.57 ...t introduction": Μετατροπή FASTQ σε FASTA}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:57: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.57 ...t introduction": Μετατροπή FASTQ σε FASTA}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:61: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.61 ...tribution": Per sequence quality analysis}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:61: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.61 ...tribution": Per sequence quality analysis}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: Citation 'FastQC' on page 3 undefined on input line 62.
+
+File: img/FastQC.png Graphic file (type bmp)
+<img/FastQC.png>
+q1.tex:83: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.83 ...on{"Protein Translation": SMS 2 Translate}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:83: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.83 ...on{"Protein Translation": SMS 2 Translate}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.96603pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.96603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
+
+[3]
+q1.tex:97: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.97 ...tration by Quality": FASTQ Quality Filter}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:97: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.97 ...tration by Quality": FASTQ Quality Filter}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:101: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.101 ...trand of DNA": SMS 2 Reverse Complement }
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:101: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.101 ...trand of DNA": SMS 2 Reverse Complement }
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:122: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.122 ...ion{"Suboptimal Local Alignment": Lalign}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:122: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.122 ...ion{"Suboptimal Local Alignment": Lalign}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:135: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.135 ...Distribution": Per Base Sequence Quality}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:135: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.135 ...Distribution": Per Base Sequence Quality}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: Citation 'FastQC' on page 4 undefined on input line 136.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.89404pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.89404pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.89404pt}.
+
+[4]
+File: img/Per Base Sequence Quality.png Graphic file (type bmp)
+<img/Per Base Sequence Quality.png>
+
+q1.tex:165: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.165 ...ion{"Global Multiple Alignment": Clustal}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:165: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.165 ...ion{"Global Multiple Alignment": Clustal}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:178: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.178     \subsection{"Finding Genes with ORFs": }
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:178: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.178     \subsection{"Finding Genes with ORFs": }
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q1.tex:190: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.190 ...ubsection{"Base Filtration by Quality": }
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:190: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.190 ...ubsection{"Base Filtration by Quality": }
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.89404pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.89404pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.89404pt}.
+
+[5]
+q1.tex:208: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.208     \section{ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ NCBI \& EBI}
+                                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q1.tex:208: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.208     \section{ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ NCBI \& EBI}
+                                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+) (q2.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  2.
+q2.tex:1: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.1 \chapter{ΕΡΩΤΗΜΑ 2}
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q2.tex:1: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1 \chapter{ΕΡΩΤΗΜΑ 2}
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q2.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.20     \section{ΣΤΟΙΧΙΣΗ ΑΚΟΛΟΥΘΙΩΝ}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q2.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.20     \section{ΣΤΟΙΧΙΣΗ ΑΚΟΛΟΥΘΙΩΝ}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: img/T-Coffee.png Graphic file (type bmp)
+<img/T-Coffee.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.96603pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.96603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
+
+[6]
+q2.tex:29: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.29     \section{ΣΥΓΚΡΙΣΗ ΔΟΜΩΝ}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q2.tex:29: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.29     \section{ΣΥΓΚΡΙΣΗ ΔΟΜΩΝ}
+                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: img/swiss-modeller.png Graphic file (type bmp)
+<img/swiss-modeller.png>
+) (q3.tex
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  3.
+q3.tex:1: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.1 \chapter{ΕΡΩΤΗΜΑ 3}
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:1: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1 \chapter{ΕΡΩΤΗΜΑ 3}
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.89404pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.89404pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.89404pt}.
+
+[7]
+q3.tex:7: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.7     \section{ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}
+                                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:7: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.7     \section{ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}
+                                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q3.tex:8: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.8 ...ion{Πολυπλοκότητα στην τροποποίηση εισόδου}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:8: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.8 ...ion{Πολυπλοκότητα στην τροποποίηση εισόδου}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q3.tex:15: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.15         \subsection{Χρονική πολυπλοκότητα}
+                                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:15: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.15         \subsection{Χρονική πολυπλοκότητα}
+                                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q3.tex:18: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.18     \section{ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}
+                                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:18: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.18     \section{ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}
+                                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+q3.tex:21: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.21 ...Δυναμικό δέντρο επιθεμάτων των Choi - Lam}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+q3.tex:21: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.21 ...Δυναμικό δέντρο επιθεμάτων των Choi - Lam}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2944,11 +3570,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
 
-[2] (W:/PycharmProjects\BioInfo_Project1\Report\auxil\main.aux)
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.96603pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.96603pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.96603pt}.
+
+[9] (W:/PycharmProjects\BioInfo_Project1\Report\auxil\main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -2956,20 +3594,25 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 4CB4408685767BCACED60516803E3062;198
-(rerunfilecheck)             After:  AAF244E756590A3CE4B3203B34840E34;558.
+(rerunfilecheck)             Before: 6D1FAD686D37DDE31D745417D0A535CF;7856
+(rerunfilecheck)             After:  2DE94EC9C64971DA1A43359E88BFE0C0;7501.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50249 strings out of 409554
- 1103711 string characters out of 5779086
- 1967484 words of memory out of 5000000
- 71780 multiletter control sequences out of 15000+600000
- 563626 words of font info for 124 fonts, out of 8000000 for 9000
+ 50670 strings out of 409554
+ 1113819 string characters out of 5779086
+ 1993760 words of memory out of 5000000
+ 72184 multiletter control sequences out of 15000+600000
+ 563650 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  106i,12n,110p,1638b,5080s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on W:/PycharmProjects\BioInfo_Project1\Report\out\main.pdf (3 pa
-ges).
+Output written on W:/PycharmProjects\BioInfo_Project1\Report\out\main.pdf (10 p
+ages).
