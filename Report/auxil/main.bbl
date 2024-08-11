@@ -19,6 +19,68 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{Bakalis_2006}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=3e7a32c145951e8f36d11885acce7256}{%
+           family={Bakalis},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=35d42571c0074565c6f1f76f059c6fd2}{%
+           family={Iliopoulos},
+           familyi={I\bibinitperiod},
+           given={C.S.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f870f0985637ded73550c7f2b5b3be23}{%
+           family={Makris},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e7e2427201bed22f4f1e38e56196f6b1}{%
+           family={Sioutas},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ece7eefc8bd1ec5a3271a877ee44f52e}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=18be5180a8eaf83307b41aff016ab9f6}{%
+           family={Tsakalidis},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7a626411ed719e822519878bf7a24bc2}{%
+           family={Tsichlas},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{fullhash}{964aeb63d7a179717cc2dce63ed88fe6}
+      \strng{fullhashraw}{964aeb63d7a179717cc2dce63ed88fe6}
+      \strng{bibnamehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{authorbibnamehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{authornamehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{authorfullhash}{964aeb63d7a179717cc2dce63ed88fe6}
+      \strng{authorfullhashraw}{964aeb63d7a179717cc2dce63ed88fe6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Computer Journal}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Locating maximal multirepeats in multiple strings under various constraints}
+      \field{volume}{50}
+      \field{year}{2006}
+      \field{pages}{178\bibrangedash 185}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1093/comjnl/bxl058
+      \endverb
+    \endentry
     \entry{BugacoConversion}{misc}{}{}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
