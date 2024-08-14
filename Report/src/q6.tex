@@ -1,21 +1,65 @@
 \chapter{ΕΡΩΤΗΜΑ 6}
+    \section{ΟΛΙΚΗ ΣΤΟΙΧΙΣΗ}
+        Οι τιμές του \(D(i,j)\) ορίζονται ως \[ D(i,j) = \min \{D(i-1,j)+1, D(i,j-1)+1, D(i-1, j-1) + t(i+j))\} \]
+        όπου \(t(i,j) = 1 \) αν υπάρχει συμφωνία και \(t(i,j) = 0 \) αν υπάρχει ασυμφωνία.
+
+        Ο πίνακας δυναμικού προγραμματισμού είναι ο εξής:
+            \begin{table}[ht] \noindent\centering
+                \resizebox{\textwidth}{!}{
+                    \begin{tabular}{c|rrrrrrrrrrr}
+               \bf{D} &   & \bf{G} & \bf{U} & \bf{G} & \bf{T} & \bf{T} & \bf{G} & \bf{T} & \bf{G} & \bf{G} \\
+                    \midrule
+                      & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}1} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}2} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}3} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}4} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}5} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}6} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}7} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}8} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\leftarrow\)}9} \\
+               \bf{T} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}1} & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\)}1} & \textcolor{lightgray}{\(\nwarrow\leftarrow\)} 2 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)} 3 & \textcolor{lightgray}{\(\nwarrow\)} 3 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)} 4 & \textcolor{lightgray}{\(\leftarrow\)}5 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}6 & \textcolor{lightgray}{\(\leftarrow\)}7 & \textcolor{lightgray}{\(\leftarrow\)}8 \\
+               \bf{C} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}2} & \textcolor{lightgray}{\(\nwarrow\uparrow\)}2 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\)}2} & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}3 & \textcolor{lightgray}{\(\nwarrow\leftarrow\uparrow\)}4 & \textcolor{lightgray}{\(\nwarrow\)}4 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}5 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}6 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}7 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}8 \\
+               \bf{G} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}3} & \textcolor{lightgray}{\(\nwarrow\)}2 & \textcolor{lightgray}{\(\nwarrow\leftarrow\uparrow\)}3 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\)}2} & \textcolor{lightgray}{\(\leftarrow\)}3 & \textcolor{lightgray}{\(\leftarrow\)}4 & \textcolor{lightgray}{\(\nwarrow\)}4 & \textcolor{lightgray}{\(\leftarrow\)}5 & \textcolor{lightgray}{\(\leftarrow\)}6 & \textcolor{lightgray}{\(\leftarrow\)}7 \\
+               \bf{T} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}4} & \textcolor{lightgray}{\(\uparrow\)}3 & \textcolor{lightgray}{\(\nwarrow\)}3 & \textcolor{lightgray}{\(\uparrow\)}3 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\)}2} & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}3 & \textcolor{lightgray}{\(\leftarrow\)}4 & \textcolor{lightgray}{\(\nwarrow\)}4 & \textcolor{lightgray}{\(\leftarrow\)}5 & \textcolor{lightgray}{\(\leftarrow\)}6 \\
+               \bf{G} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}5} & \textcolor{lightgray}{\(\nwarrow\)}4 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}4 & \textcolor{lightgray}{\(\nwarrow\)}3 & \textcolor{lightgray}{\(\uparrow\)}3 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\)}3} & \textcolor{lightgray}{\(\nwarrow\)}3 & \textcolor{lightgray}{\(\leftarrow\)}4 & \textcolor{lightgray}{\(\nwarrow\)}4 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}5 \\
+               \bf{A} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}6} & \textcolor{lightgray}{\(\uparrow\)}5 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}5 & \textcolor{lightgray}{\(\uparrow\)}4 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}4 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}4 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\uparrow\)}4} & \textcolor{lightgray}{\(\nwarrow\)}4 & \textcolor{lightgray}{\(\nwarrow\leftarrow\uparrow\)}5 & \textcolor{lightgray}{\(\nwarrow\)}5 \\
+               \bf{A} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}7} & \textcolor{lightgray}{\(\uparrow\)}6 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}6 & \textcolor{lightgray}{\(\uparrow\)}5 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}5 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}5 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}5 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\uparrow\)}5} & \textcolor{lightgray}{\(\nwarrow\)}5 & \textcolor{lightgray}{\(\nwarrow\leftarrow\uparrow\)}6 \\
+               \bf{T} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}8} & \textcolor{lightgray}{\(\uparrow\)}7 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}7 & \textcolor{lightgray}{\(\uparrow\)}6 & \textcolor{lightgray}{\(\nwarrow\)}5 & \textcolor{lightgray}{\(\nwarrow\)}5 & \textcolor{lightgray}{\(\nwarrow\leftarrow\uparrow\)}6 & \textcolor{lightgray}{\(\nwarrow\)}5 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\leftarrow\uparrow\)}6} & \textcolor{lightgray}{\(\nwarrow\)}6 \\
+               \bf{T} & \colorbox{lightgray!25}{\textcolor{lightgray}{\(\uparrow\)}9} & \textcolor{lightgray}{\(\uparrow\)}8 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}8 & \textcolor{lightgray}{\(\uparrow\)}7 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}6 & \textcolor{lightgray}{\(\nwarrow\)}5 & \textcolor{lightgray}{\(\nwarrow\leftarrow\)}6 & \textcolor{lightgray}{\(\nwarrow\uparrow\)}6 & \textcolor{lightgray}{\(\nwarrow\)}6 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\nwarrow\leftarrow\uparrow\)}7} \\
+                    \end{tabular}}
+            \end{table}
+
+        Η τιμή της βέλτιστης ολικής στοίχισης είναι 7. Μπορούμε να ακολουθήσουμε πολλά διαφορετικά μονοπάτια οπισθοδρόμησης.
+        Για το σκιασμένο προκύπτει η εξής στοίχιση:
+
+        \begin{graycomment}
+            \begin{verbatim}
+G U G T T G T G G
+    | |
+T C G T G A A T T\end{verbatim}
+        \end{graycomment}
+
 
     \section{ΤΟΠΙΚΗ ΣΤΟΙΧΙΣΗ}
 
-    \begin{table}[ht] \noindent\centering
-        \resizebox{0.6\textwidth}{!}{
-            \begin{tabular}{c|ccccccccccc}
-       \bf{D} &   & \bf{G} & \bf{U} & \bf{G} & \bf{T} & \bf{T} & \bf{G} & \bf{T} & \bf{G} & \bf{G} \\
-            \midrule
-              & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} & \colorbox{lightgray!25}{0} \\
-       \bf{T} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{C} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{G} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{T} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{G} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{A} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{A} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{T} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-       \bf{T} & \colorbox{lightgray!25}{0} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-            \end{tabular}}
-    \end{table}
+        Οι τιμές του \(v(i,j)\) ορίζονται ως \[ v(i,j) = \max \{v(i-1,j) + s(S_1(i),\_), v(i,j-1) + s(\_, S_2(j)), v(i-1, j-1) + s(S_1(i), S_2(j)), 0\} \]
+
+        \begin{table}[ht] \noindent\centering
+            \resizebox{0.7\textwidth}{!}{
+                \begin{tabular}{c|rrrrrrrrrrr}
+           \bf{v} &   & \bf{G} & \bf{U} & \bf{G} & \bf{T} & \bf{T} & \bf{G} & \bf{T} & \bf{G} & \bf{G} \\
+                \midrule
+                  & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 & \colorbox{lightgray!25}0 \\
+           \bf{T} & \colorbox{lightgray!25}0 & 0 & 0 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & 0 \\
+           \bf{C} & \colorbox{lightgray!25}0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+           \bf{G} & \colorbox{lightgray!25}0 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & 0 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\searrow\)}1} & 0 & \textcolor{lightgray}{\(\searrow\)}1 & \textcolor{lightgray}{\(\searrow\)}1 \\
+           \bf{T} & \colorbox{lightgray!25}0 & 0 & 0 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\searrow\)}2} & \textcolor{lightgray}{\(\rightarrow\)}1 & 0 \\
+           \bf{G} & \colorbox{lightgray!25}0 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & 0 & \textcolor{lightgray}{\(\searrow\)}2 & \textcolor{lightgray}{\(\rightarrow\)}1 & \colorbox{lightgray!50}{\textcolor{lightgray}{\(\searrow\)}3} & \textcolor{lightgray}{\(\searrow\rightarrow\)}2 \\
+           \bf{A} & \colorbox{lightgray!25}0 & 0 & 0 & 0 & 0 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & \textcolor{lightgray}{\(\searrow\)}1 & \textcolor{lightgray}{\(\downarrow\)}2 & \textcolor{lightgray}{\(\searrow\)}2 \\
+           \bf{A} & \colorbox{lightgray!25}0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & \textcolor{lightgray}{\(\downarrow\)}1 & \textcolor{lightgray}{\(\searrow\downarrow\)}1 \\
+           \bf{T} & \colorbox{lightgray!25}0 & 0 & 0 & 0 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & \textcolor{lightgray}{\(\searrow\)}1 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & 0 \\
+           \bf{T} & \colorbox{lightgray!25}0 & 0 & 0 & 0 & 0 & \textcolor{lightgray}{\(\searrow\)}1 & \textcolor{lightgray}{\(\searrow\)}2 & \textcolor{lightgray}{\(\rightarrow\)}1 & \textcolor{lightgray}{\(\searrow\)}1 & 0 \\
+                \end{tabular}}
+        \end{table}
+
+    Η τιμή της βέλτιστης τοπικής στοίχισης είναι 3.
+
+        \begin{graycomment}
+            \begin{verbatim}
+G U G T T G T G G
+      |   | | | |
+      T C G T G A A T T\end{verbatim}
+        \end{graycomment}
