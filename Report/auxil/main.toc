@@ -5,32 +5,32 @@
 \contentsline {subsection}{\numberline {\if@rl \I {2.1.1}\else \textLR {1.1.2}\fi }"GenBank Introduction": Αναζήτηση}{3}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {\if@rl \I {3.1.1}\else \textLR {1.1.3}\fi }"Data Formats": Formats της GenBank}{3}{subsection.1.1.3}%
 \contentsline {subsection}{\numberline {\if@rl \I {4.1.1}\else \textLR {1.1.4}\fi }"New Motif Discovery": Αναζήτηση Motifs σε ακολουθίες}{3}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {\if@rl \I {5.1.1}\else \textLR {1.1.5}\fi }"Pairwise Global Alignment": Στοίχιση ακολουθιών}{3}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {\if@rl \I {5.1.1}\else \textLR {1.1.5}\fi }"Pairwise Global Alignment": Στοίχιση ακολουθιών}{4}{subsection.1.1.5}%
 \contentsline {subsection}{\numberline {\if@rl \I {6.1.1}\else \textLR {1.1.6}\fi }"FASTQ format introduction": Μετατροπή FASTQ σε FASTA}{4}{subsection.1.1.6}%
 \contentsline {subsection}{\numberline {\if@rl \I {7.1.1}\else \textLR {1.1.7}\fi }"Read Quality Distribution": Per sequence quality analysis}{4}{subsection.1.1.7}%
-\contentsline {subsection}{\numberline {\if@rl \I {8.1.1}\else \textLR {1.1.8}\fi }"Protein Translation": SMS 2 Translate}{4}{subsection.1.1.8}%
+\contentsline {subsection}{\numberline {\if@rl \I {8.1.1}\else \textLR {1.1.8}\fi }"Protein Translation": SMS 2 Translate}{5}{subsection.1.1.8}%
 \contentsline {subsection}{\numberline {\if@rl \I {9.1.1}\else \textLR {1.1.9}\fi }"Read Filtration by Quality": FASTQ Quality Filter}{5}{subsection.1.1.9}%
 \contentsline {subsection}{\numberline {\if@rl \I {10.1.1}\else \textLR {1.1.10}\fi }"Complementing a Strand of DNA": SMS 2 Reverse Complement }{5}{subsection.1.1.10}%
-\contentsline {subsection}{\numberline {\if@rl \I {11.1.1}\else \textLR {1.1.11}\fi }"Suboptimal Local Alignment": Lalign}{5}{subsection.1.1.11}%
-\contentsline {subsection}{\numberline {\if@rl \I {12.1.1}\else \textLR {1.1.12}\fi }"Base Quality Distribution": Per Base Sequence Quality}{5}{subsection.1.1.12}%
-\contentsline {subsection}{\numberline {\if@rl \I {13.1.1}\else \textLR {1.1.13}\fi }"Global Multiple Alignment": Clustal}{6}{subsection.1.1.13}%
-\contentsline {subsection}{\numberline {\if@rl \I {14.1.1}\else \textLR {1.1.14}\fi }"Finding Genes with ORFs": }{6}{subsection.1.1.14}%
-\contentsline {subsection}{\numberline {\if@rl \I {15.1.1}\else \textLR {1.1.15}\fi }"Base Filtration by Quality": }{6}{subsection.1.1.15}%
-\contentsline {section}{\numberline {\if@rl \I {2.1}\else \textLR {1.2}\fi }ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ NCBI \& EBI}{7}{section.1.2}%
-\contentsline {chapter}{\numberline {2}ΕΡΩΤΗΜΑ 2}{7}{chapter.2}%
-\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }ΣΤΟΙΧΙΣΗ ΑΚΟΛΟΥΘΙΩΝ}{7}{section.2.1}%
-\contentsline {section}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }ΣΥΓΚΡΙΣΗ ΔΟΜΩΝ}{8}{section.2.2}%
-\contentsline {chapter}{\numberline {3}ΕΡΩΤΗΜΑ 3}{9}{chapter.3}%
-\contentsline {section}{\numberline {\if@rl \I {1.3}\else \textLR {3.1}\fi }ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}{9}{section.3.1}%
-\contentsline {section}{\numberline {\if@rl \I {2.3}\else \textLR {3.2}\fi }ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}{9}{section.3.2}%
-\contentsline {subsection}{\numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi }Δυναμικό δέντρο επιθεμάτων του McCreight}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {\if@rl \I {2.2.3}\else \textLR {3.2.2}\fi }Δυναμικό δέντρο επιθεμάτων των Choi - Lam}{9}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {\if@rl \I {3.2.3}\else \textLR {3.2.3}\fi }Online αλγόριθμος του Ukkonen}{9}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {\if@rl \I {4.2.3}\else \textLR {3.2.4}\fi }LCP αλγόριθμος των Cole - Hariharan}{10}{subsection.3.2.4}%
-\contentsline {chapter}{\numberline {4}ΕΡΩΤΗΜΑ 4}{10}{chapter.4}%
-\contentsline {section}{\numberline {\if@rl \I {1.4}\else \textLR {4.1}\fi }ΧΩΡΙΣ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}{10}{section.4.1}%
-\contentsline {section}{\numberline {\if@rl \I {2.4}\else \textLR {4.2}\fi }ΜΕ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}{10}{section.4.2}%
-\contentsline {chapter}{\numberline {5}ΕΡΩΤΗΜΑ 5}{10}{chapter.5}%
-\contentsline {chapter}{\numberline {6}ΕΡΩΤΗΜΑ 6}{11}{chapter.6}%
-\contentsline {section}{\numberline {\if@rl \I {1.6}\else \textLR {6.1}\fi }ΟΛΙΚΗ ΣΤΟΙΧΙΣΗ}{11}{section.6.1}%
-\contentsline {section}{\numberline {\if@rl \I {2.6}\else \textLR {6.2}\fi }ΤΟΠΙΚΗ ΣΤΟΙΧΙΣΗ}{11}{section.6.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {11.1.1}\else \textLR {1.1.11}\fi }"Suboptimal Local Alignment": Lalign}{6}{subsection.1.1.11}%
+\contentsline {subsection}{\numberline {\if@rl \I {12.1.1}\else \textLR {1.1.12}\fi }"Base Quality Distribution": Per Base Sequence Quality}{6}{subsection.1.1.12}%
+\contentsline {subsection}{\numberline {\if@rl \I {13.1.1}\else \textLR {1.1.13}\fi }"Global Multiple Alignment": Clustal}{7}{subsection.1.1.13}%
+\contentsline {subsection}{\numberline {\if@rl \I {14.1.1}\else \textLR {1.1.14}\fi }"Finding Genes with ORFs": }{7}{subsection.1.1.14}%
+\contentsline {subsection}{\numberline {\if@rl \I {15.1.1}\else \textLR {1.1.15}\fi }"Base Filtration by Quality": }{7}{subsection.1.1.15}%
+\contentsline {section}{\numberline {\if@rl \I {2.1}\else \textLR {1.2}\fi }ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ NCBI \& EBI}{8}{section.1.2}%
+\contentsline {chapter}{\numberline {2}ΕΡΩΤΗΜΑ 2}{8}{chapter.2}%
+\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }ΣΤΟΙΧΙΣΗ ΑΚΟΛΟΥΘΙΩΝ}{8}{section.2.1}%
+\contentsline {section}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }ΣΥΓΚΡΙΣΗ ΔΟΜΩΝ}{9}{section.2.2}%
+\contentsline {chapter}{\numberline {3}ΕΡΩΤΗΜΑ 3}{10}{chapter.3}%
+\contentsline {section}{\numberline {\if@rl \I {1.3}\else \textLR {3.1}\fi }ΠΡΟΒΛΗΜΑΤΑ ΣΤΑΤΙΚΩΝ ΔΕΝΤΡΩΝ}{10}{section.3.1}%
+\contentsline {section}{\numberline {\if@rl \I {2.3}\else \textLR {3.2}\fi }ΔΥΝΑΜΙΚΟΙ ΑΛΓΟΡΙΘΜΟΙ}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.2.3}\else \textLR {3.2.1}\fi }Δυναμικό δέντρο επιθεμάτων του McCreight}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.2.3}\else \textLR {3.2.2}\fi }Δυναμικό δέντρο επιθεμάτων των Choi - Lam}{10}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.2.3}\else \textLR {3.2.3}\fi }Online αλγόριθμος του Ukkonen}{11}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.2.3}\else \textLR {3.2.4}\fi }LCP αλγόριθμος των Cole - Hariharan}{11}{subsection.3.2.4}%
+\contentsline {chapter}{\numberline {4}ΕΡΩΤΗΜΑ 4}{11}{chapter.4}%
+\contentsline {section}{\numberline {\if@rl \I {1.4}\else \textLR {4.1}\fi }ΧΩΡΙΣ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}{11}{section.4.1}%
+\contentsline {section}{\numberline {\if@rl \I {2.4}\else \textLR {4.2}\fi }ΜΕ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}{11}{section.4.2}%
+\contentsline {chapter}{\numberline {5}ΕΡΩΤΗΜΑ 5}{12}{chapter.5}%
+\contentsline {chapter}{\numberline {6}ΕΡΩΤΗΜΑ 6}{12}{chapter.6}%
+\contentsline {section}{\numberline {\if@rl \I {1.6}\else \textLR {6.1}\fi }ΟΛΙΚΗ ΣΤΟΙΧΙΣΗ}{12}{section.6.1}%
+\contentsline {section}{\numberline {\if@rl \I {2.6}\else \textLR {6.2}\fi }ΤΟΠΙΚΗ ΣΤΟΙΧΙΣΗ}{13}{section.6.2}%
