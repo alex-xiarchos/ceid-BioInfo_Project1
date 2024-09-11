@@ -4,49 +4,9 @@
         \includegraphics[scale=0.5]{img/Erwthma5_Tree}
     \end{center}
 
-    Πραγματοποιούμε DFS (Depth-First Search) αναζήτηση από τη ρίζα του δέντρου.
-    Κατά τη διάρκεια της αναζήτησης αποθηκεύουμε σε μια μεταβλητή, \texttt{currentPath}, τις συνολικές ετικέτες που διασχίζουμε.
-    Σε κάθε κόμβο ελέγχουμε αν το \texttt{currentPath} περιλαμβάνει το πρότυπο \(P\).
-    Αν το περιλαμβάνει, κάνουμε μια αναζήτηση στην υπακολουθία μέσω του Knuth-Morris-Pratt αλγορίθμου.
+    Έστω πρότυπο \(P\) και κείμενο \(T\).
+    Ο μόνος αλγόριθμος που μπορεί να τρέξει realtime, δηλαδή σε \(O(n+m)\) χρόνο, όπου \(n\) ο συνολικός αριθμός χαρακτήρων του \(T\)
+        και \(m\) το μήκος του προτύπου \(P\), είναι ο \textbf{Knuth-Morris-Pratt} αλγόριθμος.
 
-%\begin{lstlisting}[language=Python]
-%from Bio.motifs.search import KnuthMorrisPratt
-%
-%def contains_template(currentPath, P):
-%    matches = ""
-%
-%    # Δημιουργία KMP αντικειμένου με το πρότυπο P
-%    kmp = KnuthMorrisPratt(P)
-%
-%    # Αναζήτηση του προτύπου στο currentPath
-%    matches = kmp.search(currentPath)
-%
-%    if matches == "":
-%        return False
-%    else:
-%        return True
-%
-%
-%def find_template_subpaths(root, P):
-%    subpaths = []
-%
-%    def DFS(node, currentPath):
-%        # Append the current node's label to the path
-%        currentPath += node.label
-%
-%        # Check if the current path contains the template P
-%        if contains_template(currentPath, P):
-%            subpaths.append(currentPath)  # Store the current path
-%
-%        # Recur for each child
-%        for child in node.children:
-%            DFS(child, currentPath)
-%
-%        # Backtrack
-%        currentPath = currentPath[:-len(node.label)]
-%
-%    # Εκκίνηση του DFS
-%    DFS(root, "")
-%
-%    return subpaths
-%\end{lstlisting}
+    Εφαρμόζουμε τον αλγόριθμο αφού πρώτα διασχίσουμε το δέντρο, όπου για κάθε χαρακτήρα \(\in P \) ακολουθούμε τις ακμές που αντιστοιχούν σε αυτό.
+    Μπορεί να χρησιμοποιηθεί κάποιος DFS αλγόριθμος για την εύρεση όλων των εμφανίσεων.

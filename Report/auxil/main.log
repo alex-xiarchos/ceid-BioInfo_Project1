@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.5)  8 SEP 2024 00:55
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.5)  11 SEP 2024 19:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3787,48 +3787,6 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File: img/erwthma4_example.png Graphic file (type bmp)
 <img/erwthma4_example.png>
-q4.tex:8: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.8     \section{ΧΩΡΙΣ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}
-                                             
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-q4.tex:8: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.8     \section{ΧΩΡΙΣ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}
-                                             
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-q4.tex:17: Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.17     \section{ΜΕ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}
-                                           
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-q4.tex:17: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.17     \section{ΜΕ ΠΕΡΙΟΡΙΣΜΟΥΣ ΣΤΑ ΚΕΝΑ}
-                                           
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 ) (q5.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  5.
@@ -3961,7 +3919,7 @@ L3 programming layer <2024-08-16>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7E5A6E81B19CB26105306E68963B0C9F;9005.
+(rerunfilecheck)             Checksum: 11BB88D7E47FCD3998E5C6D2FF3757C7;8487.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -3972,10 +3930,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51026 strings out of 409029
- 1124332 string characters out of 5756742
- 2012899 words of memory out of 5000000
- 73039 multiletter control sequences out of 15000+600000
+ 51025 strings out of 409029
+ 1124321 string characters out of 5756742
+ 2013331 words of memory out of 5000000
+ 73038 multiletter control sequences out of 15000+600000
  566680 words of font info for 143 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  121i,14n,124p,1638b,5080s stack positions out of 10000i,1000n,20000p,200000b,200000s
